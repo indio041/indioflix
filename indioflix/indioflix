@@ -1,10 +1,28 @@
-<header>INDIOFLIX</header> 
+>body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
 
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
 
-<h1>ATRVÉS DO ARANHA VERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homen-aranha</p>
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=COFB3lIFJtXs73sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+.chamada-texto {
+    margin-right: 5%;
+}
+
 
 
 
